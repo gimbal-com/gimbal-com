@@ -111,4 +111,4 @@ As a passionate and dedicated fullstack web developer, my objective is to create
 ---
 
 ## 📧 Contact:
-You can reach me at [senseofpriderenovation@gmail.com](mailto:senseofpriderenovation@gmail.com)
+You can reach me at [davidleadley047@gmail.com](mailto:davidleadley047@gmail.com)
